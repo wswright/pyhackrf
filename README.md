@@ -12,3 +12,6 @@ Dependencies:
 Usage:
  - Pipe the output of hackrf_sweep into the application.
    - Example:  hackrf_sweep -f 70:110 -w 10000 | ./HackRF.py
+   
+Features:
+ - Zoom, Pan, Gaussian Filter
